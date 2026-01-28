@@ -9,3 +9,8 @@ print(f"Value of c = {c}")
 
 c = 3 % b * a
 print(f"Value of c = {c}")
+
+output
+Enter a number: 61
+Enter the base: 7
+The number 61 in base 7 is: 115
