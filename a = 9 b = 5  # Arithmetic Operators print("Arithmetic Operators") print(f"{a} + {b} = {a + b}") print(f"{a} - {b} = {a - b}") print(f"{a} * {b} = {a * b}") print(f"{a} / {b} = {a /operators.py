@@ -33,3 +33,30 @@ print(f"Right Shift {a} >> 2 = {a >> 2}")
 # Conditional (Ternary) Operator
 print("\n" + ("a is greater than b" if a > b else "b is less than a"))
 
+output
+Arithmetic Operators
+9 + 5 = 14
+9 - 5 = 4
+9 * 5 = 45
+9 / 5 = 1.80
+9 % 5 = 4
+
+Relational Operators
+9 < 5 = False
+9 > 5 = True
+9 == 5 = False
+9 != 5 = True
+
+Logical Operators
+AND 9 and 5 = True
+OR 9 or 5 = True
+NOT 9 = False
+
+Bitwise Operators
+9 & 5 = 1
+9 | 5 = 13
+Bitwise XOR 9 ^ 5 = 12
+Left Shift 9 << 2 = 36
+Right Shift 9 >> 2 = 2
+
+a is greater than b
